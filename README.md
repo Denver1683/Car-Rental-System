@@ -35,4 +35,4 @@ A **Java-based GUI application** designed to manage **car rentals, customers, an
 ## 🚀 **How to Run the Project**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/Car-Rental-System.git
+git clone https://github.com/Denver1683/Car-Rental-System.git
